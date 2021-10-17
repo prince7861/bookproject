@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Book>
+ <id>1</id>
+ <author>Giada De Laurentiis</author>
+ <title>Everyday Italian</title>
+ <category>cooking</category>>
+ <isbn>12321321</isbn>
+ <no_of_pages>3000</no_of_pages>
+ <price>30.00</price>
+ <publisher>Andrew</publisher>
+ <release_date>23-12-1995</release_date>
+ <year>2005</year>
+</Book>
+
+
